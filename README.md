@@ -12,4 +12,3 @@ this is new paragraph
 <code>this is code </code>
 ```
 
-This is new.
